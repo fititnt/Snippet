@@ -102,3 +102,27 @@ footer > div{
 footer a{
     color:#999;
 }
+
+
+/* julio */
+img.rounded {
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+ul.pagination {
+	list-style: none outside none;
+    margin: 10px auto;
+    padding: 0;
+}
+ul.pagination li {
+	color: #CCCCCC;
+    cursor: pointer;
+    float: left;
+    font-family: Georgia;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 0;
+    margin-right: 2px;
+}
